@@ -1,57 +1,56 @@
-# 🌺 Palash Tree – The Flame of the Forest | Bit Digital Forest
+# 🌳 Sagwan Tree – The King of Timber | Bit Digital Forest
 
-Welcome to the official repository of the **Palash Tree** profile under the **Bit Digital Forest** project. This tree is known for its fiery red-orange flowers and cultural significance across India.
+Welcome to the official GitHub repository for the **Sagwan Tree (Tectona grandis)** profile, developed under the **Bit Digital Forest** initiative. This digital tree profile celebrates one of the most valuable hardwood trees in the world.
 
 ---
 
 ## 📌 Overview
 
-The **Palash Tree** (*Butea monosperma*) is a medium-sized deciduous tree known as the **"Flame of the Forest"** due to its vibrant and striking blossoms. This page is part of a student-led digital ecosystem awareness project.
+The **Sagwan Tree**, widely known as **Teak**, is a tropical hardwood tree native to South and Southeast Asia. It is renowned for its high-quality timber, longevity, and economic value.
 
 ---
 
-## 🌿 Features of the Tree
+## 🌿 Key Features
 
-- **Scientific Name:** *Butea monosperma*
-- **Common Names:** Palash, Flame of the Forest, Tesu, Dhak
-- **Family:** Fabaceae
-- **Height:** 10–15 meters
-- **Flowers:** Bright orange-red, blooming in spring
-- **Leaves:** Trifoliate (three-parted), shed in dry seasons
-
----
-
-## 🌍 Environmental Importance
-
-- Supports biodiversity by attracting birds, bees, and butterflies
-- Aids in **soil conservation** due to deep root systems
-- Naturally drought-resistant and adapted to arid conditions
+- **Scientific Name:** *Tectona grandis*
+- **Common Names:** Sagwan, Teak
+- **Family:** Lamiaceae
+- **Height:** Up to 30–40 meters
+- **Leaves:** Large, papery, and hairy underneath
+- **Wood:** Highly durable, water-resistant, golden-brown color
 
 ---
 
-## 🧪 Medicinal & Cultural Uses
+## 🌍 Environmental Impact
 
-- **Traditional Uses:** Bark, flowers, and seeds are used in Ayurveda
-- **Holi Festival:** Palash flowers are used to make natural colors
-- **Symbolism:** Often seen as a symbol of strength, resilience, and beauty
-
----
-
-## 🧬 Chemical Composition
-
-- Palash contains **butrin, isobutrin**, and **palasonin**
-- Used for treating skin disorders, diarrhea, and inflammation in traditional medicine
+- Contributes to **carbon sequestration**
+- Enhances **soil fertility** with leaf litter
+- Provides **shade and habitat** for wildlife
+- Teak plantations support **sustainable forestry**
 
 ---
 
-## 📸 Screenshots / Demo
+## 🧪 Medicinal & Practical Uses
 
-![Palash Tree Screenshot](./images/palash-page-demo.png)
+- **Wood Uses:** Furniture, boats, flooring, construction
+- **Medicinal:** Bark used in traditional remedies for treating skin issues and headaches
+- **Leaves:** Used for natural food wrapping and cooling pads
 
-> The design is simple, mobile-friendly, and focused on visual storytelling.
+---
+
+## 🧬 Chemistry of the Tree
+
+- Contains **tectoquinone**, **lapachol**, and **anthraquinones**
+- Naturally resists termites and decay due to its oily resin
+
+---
+
+## 📸 Visual Preview
+
+![Sagwan Tree Demo](./images/sagwan-page-demo.png)
+
+> Rich visuals with real photos, designed for students and nature lovers.
 
 ---
 
 ## 📁 Folder Structure
---> index.html
---> readme.md
